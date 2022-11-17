@@ -101,13 +101,20 @@ footer {
   display:inline-block;
   width:100%;
   text-decoration: none;
-  border:8px solid var(--bright)
+  border:8px solid var(--bright);
+  list-style: none;
 }
 footer a {
   color:var(--beige);
   text-decoration: none;
+  list-style:none;
 }
-footer h3{font-size: 45px;}
+footer h3{
+  font-size: 35px;}
+
+footer a:hover{
+    color:var(--bright)
+  }
 
 /* work project cards*/
 .projects {
