@@ -9,4 +9,11 @@ My name is Kevin Hernandez. Attached you will find my portfolio page. On my port
 Please do not hesitate to reach out! i look forward to working with you all
 </p>
 
-<img src="./assets/Images/portfolio.screenshot.png">
+<h2>Links:</h2>
+Link to page:
+<a href="https://khernandez0810.github.io/HireMePls/"> Link to webpage</a>
+
+Link to Repository:
+<a href="https://github.com/khernandez0810/HireMePls"> Link to repository</a>
+
+<img src="./assets/Images/portfolioImg.png">
